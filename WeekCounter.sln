@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekCounter", "WeekCounter\WeekCounter.csproj", "{BEC6F43F-BB4F-4B7B-987E-E705F74A1D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC6F43F-BB4F-4B7B-987E-E705F74A1D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC6F43F-BB4F-4B7B-987E-E705F74A1D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC6F43F-BB4F-4B7B-987E-E705F74A1D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC6F43F-BB4F-4B7B-987E-E705F74A1D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11366CD-7984-4281-8256-E61DF28C4CC1}
+	EndGlobalSection
+EndGlobal
